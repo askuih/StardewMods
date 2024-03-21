@@ -49,20 +49,19 @@
     ** Generic Mod Config Menu UI
     **********/
     // general options
-    // TODO
-    "config.title.general-options": "General options",
-    "config.show-hover-tooltips.name": "Show hover tooltips",
-    "config.show-hover-tooltips.desc": "Whether to show the chest name in a tooltip when you point at a chest.",
-    "config.enable-shipping-bin.name": "Enable shipping bin",
-    "config.enable-shipping-bin.desc": "Whether to enable access to the shipping bin.",
-    "config.add-organize-player-items.name": "Add organize player items button",
-    "config.add-organize-player-items.desc": "Whether to add an 'organize' button in chest UIs for the player inventory.",
-    "config.range.name": "Range",
-    "config.range.desc": "The range at which chests are accessible through the menu.",
-    "config.range.unlimited": "All chests",
-    "config.range.currentWorldArea": "Chests within the current world area",
-    "config.range.currentLocation": "Chests within the current location",
-    "config.range.none": "None (can't access chests remotely)",
+    "config.title.general-options": "Общие настройки",
+    "config.show-hover-tooltips.name": "Показывать подсказки при наведении",
+    "config.show-hover-tooltips.desc": "Показывать название сундука во всплывающей подсказке при наведении на него.",
+    "config.enable-shipping-bin.name": "Включить ящик для продажи",
+    "config.enable-shipping-bin.desc": "Включить доступ к ящику для продажи.",
+    "config.add-organize-player-items.name": "Добавить кнопку сортировки предметов игрока",
+    "config.add-organize-player-items.desc": "Добавить кнопку 'сортировать' для инвентаря игрока в интерфейсе сундука.",
+    "config.range.name": "Дальность",
+    "config.range.desc": "Дистанция, на которой сундуки доступны через меню.",
+    "config.range.unlimited": "Все сундуки",
+    "config.range.currentWorldArea": "Сундуки в текущей области мира",
+    "config.range.currentLocation": "Сундуки в текущей локации",
+    "config.range.none": "Нет (невозможно удаленно получить доступ к сундукам)",
 
     // general controls
     // TODO
